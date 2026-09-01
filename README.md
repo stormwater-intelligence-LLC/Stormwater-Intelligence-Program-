@@ -1,8 +1,13 @@
 # Stormwater Intelligence Platform — Original Prototype
 
+**Source Status:** HISTORICAL  
+**StormAI Use:** REFERENCE ONLY
+
 This repository contains an early public prototype of the Stormwater Intelligence Platform.
 
-The prototype explored how interactive 3D mapping, weather information, federal environmental datasets, and AI-assisted interfaces could be brought together in one environmental intelligence system.
+StormAI must not treat this repository as a current operating source. Current ARCSEC requirements and the official StormAI organization source map control how present-day systems use GitHub sources.
+
+Official organization source map: [`stormwater-intelligence-LLC/.github/STORMAI_SOURCE_MAP.md`](https://github.com/stormwater-intelligence-LLC/.github/blob/main/STORMAI_SOURCE_MAP.md)
 
 ## Prototype Features
 
@@ -40,17 +45,15 @@ The Stormwater Intelligence Platform supports that work by combining geospatial 
 
 ## Current Information
 
-For current services, project inquiries, and company information, visit:
-
-**Website:** [www.stormintel.net](https://www.stormintel.net/)
-**Email:** [dguzman@stormintel.net](mailto:dguzman@stormintel.net)
+**Website:** [www.stormintel.net](https://www.stormintel.net/)  
+**Email:** [dguzman@stormintel.net](mailto:dguzman@stormintel.net)  
 **GitHub:** [Stormwater Intelligence LLC](https://github.com/stormwater-intelligence-LLC)
 
 ## Founder
 
-**Daniel Guzman**
-Founder and Principal, Stormwater Intelligence LLC
-CASQA Qualified SWPPP Developer and Practitioner
+**Daniel Guzman**  
+Founder and Principal, Stormwater Intelligence LLC  
+CASQA Qualified SWPPP Developer and Practitioner  
 Cesium Certified Developer
 
 ## Important Notice
